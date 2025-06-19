@@ -12,7 +12,7 @@ public abstract class Account {
     public void deposit(double amount) {
         this.balance += amount;
     }
-
+g
     public abstract void withdraw(double amount);
 
     public String toString() {
